@@ -35,5 +35,10 @@ https://public.tableau.com/views/Thelook-RevenuebySalesCategory/Sheet1?:language
 https://public.tableau.com/views/RevenuebyGenderandAge/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 https://public.tableau.com/views/ReturnratebySalesCategory/Sheet1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
-
+## SQL Skills Demonstrated
+- Aggregations and GROUP BY
+- Multi-table JOINs
+- CASE WHEN for conditional logic and bucketing
+- Return rate calculation with conditional COUNT
+- Age segmentation using CASE WHEN ranges
 
